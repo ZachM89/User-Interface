@@ -64,3 +64,138 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+nav {
+	font-size: 14px;
+	vertical-align: middle;
+	display: inline-block;
+}
+
+.logo {
+	vertical-align: middle;
+	margin-left: 15px;
+}
+
+.circle-code {
+	height: 100%;
+	width: 100%;
+	padding-right: 40px;
+}
+
+.middle-img {
+	width: 100%;
+}
+
+a {
+	padding-top: 10px;
+	text-decoration: none;
+	color: lightgray;
+	vertical-align: middle;
+}
+
+html {
+	/*margin-top: 20px;
+	margin-left: 70px;
+	margin-right: 70px;*/
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 910px;
+	align: center;
+}
+
+head {
+	align: center;
+}
+
+footer {
+	align: center;
+	margin-top: 50px;
+	margin-bottom: 100px;
+	text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 35px;
+  margin-bottom: 70px;
+
+  /*-webkit-box-align:center;*/
+}
+
+.slogan-container {
+	margin-left: auto;
+	margin-right: auto;
+	display:-webkit-box;
+	-webkit-box-pack:center;
+	-webkit-box-align:center;
+	justify-content: space-between;
+	vertical-align: middle;
+	font-size: 75px;
+	letter-spacing: 1px;
+	text-align: center;
+	font-family: 'Bangers', cursive;
+}
+
+.slogan {
+	vertical-align: middle;
+	font-size: 60px;
+	text-align: center;
+	font-family: 'Bangers', cursive;
+}
+
+.content-row{
+	margin-top: 40px;
+	margin-bottom: 40px;
+	display: flex;
+}
+
+.features {
+	margin-right: 10px;
+}
+
+.services {
+	margin-right: 25px;
+}
+.product {
+	margin-right: 25px;
+}
+
+button {
+	background: white;
+	border: 1px solid black;
+	font-size: 16px;
+	align: center;
+	font-family: 'Titillium Web', sans-serif;
+	/*padding-top: 4px;
+	padding-bottom: 4px;
+	padding-left: 35px;
+	padding-right: 35px;*/
+	vertical-align: middle;
+	width: 155px;
+	height: 32px;
+}
+
+line {
+	display: block;
+    height: 1px;
+	width: 100%;
+    border: 0;
+    border-top: 1px solid black;
+    margin: 1em 0;
+    padding: 0;
+	margin-bottom: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
